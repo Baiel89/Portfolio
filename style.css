@@ -21,6 +21,23 @@ header{
     padding: 4rem 1rem 3rem;
 }
 
+.made-with{
+    width: 10rem;
+    text-align: center;
+    font-size: 12px;
+    opacity: 0.6;
+    background-color: grey;
+    padding: 16px 10px;
+    border-radius: var(--radius);
+    transition: opacity 0.2s;
+    margin-left: 2rem;
+}
+
+.made-with:hover{
+    opacity: 0.8;
+    cursor:pointer;
+}
+
 .title{
     font-size: 4rem;
     letter-spacing: 6px;
@@ -56,6 +73,7 @@ h2{
 }
 
 h3{
+    margin-top: 1rem;
     margin-bottom: 1.2rem;
     font-size: 1.4rem;
 }
@@ -85,6 +103,7 @@ ul li::before {
     color: #4da3ff;
     font-weight: bold;
 }
+
 
 @media (max-width: 768px) {
     header {
