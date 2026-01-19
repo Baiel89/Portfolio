@@ -1,2 +1,2 @@
 # Portfolio
-Portfolio de Biel Martos creado en HTML /CSS
+Portfolio personal desarrollado desde cero con **HTML y CSS**, donde presento algunos de mis proyectos en robótica, visión artificial y desarrollo de videojuegos.
